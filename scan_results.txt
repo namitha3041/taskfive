@@ -1,0 +1,7 @@
+# Nmap 7.94SVN scan initiated Sun Aug  4 11:56:27 2024 as: nmap -p- -oN scan_results.txt 127.0.0.1
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.000099s latency).
+All 65535 scanned ports on localhost (127.0.0.1) are in ignored states.
+Not shown: 65535 closed tcp ports (conn-refused)
+
+# Nmap done at Sun Aug  4 11:56:29 2024 -- 1 IP address (1 host up) scanned in 2.67 seconds
